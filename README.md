@@ -4,7 +4,7 @@ It is my first complete end-to-end data analysis project, completed in 7 days (~
 
 The goal was to clean the raw dataset, engineer meaningful features, explore trends, and uncover insights about mission success rates, rocket usage, costs, countries, and technological progress.
 
-📂 What This Project Includes
+### 📂 What This Project Includes
 - Full data cleaning & preprocessing
 - Feature engineering (Country, Year, Month, Decade, etc.)
 - 15+ visualizations (bar charts, pie charts, line plots, heatmap, scatterplots, histogram)
@@ -17,7 +17,7 @@ The goal was to clean the raw dataset, engineer meaningful features, explore tre
 - Rocket lifespan
 And much more
 
-💡 Highlights (Short Summary)
+### 💡 Highlights (Short Summary)
 1. USA & Russia dominate global rocket launches
 2. Cosmos-3M is the most used rocket with a 93.9% success rate
 3. December has the highest number of launches; January the lowest
@@ -29,7 +29,7 @@ And much more
 
 ➡️ For full insights and detailed explanations, check the end of the Jupyter Notebook (Space_Mission.ipynb).
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 1. Python
 2. Pandas
 3. NumPy
@@ -37,7 +37,7 @@ And much more
 5. Seaborn
 6. Jupyter Notebook
 
-📊 Future Improvements
+### 📊 Future Improvements
 Add Power BI dashboard
 Build a small ML model to predict mission success
 
