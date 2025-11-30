@@ -29,6 +29,11 @@ And much more
 
 ➡️ For full insights and detailed explanations, check the end of the Jupyter Notebook (Space_Mission.ipynb).
 
+### 📸 Power BI Dashboard (Final Output)
+
+Here is the Power BI dashboard created from the cleaned dataset, summarizing mission trends, rocket performance, success rates, and cost behavior:
+![alt text](<WhatsApp Image 2025-11-30 at 17.15.21_abbb482e.jpg>)
+
 ### 🛠️ Tech Stack
 1. Python
 2. Pandas
@@ -38,7 +43,7 @@ And much more
 6. Jupyter Notebook
 
 ### 📊 Future Improvements
-Add Power BI dashboard
+Add interactive BI with filters, drill-through pages, and KPIs
 Build a small ML model to predict mission success
 
 ✔ License
