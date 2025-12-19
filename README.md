@@ -32,8 +32,8 @@ And much more
 ### 📸 Power BI Dashboard (Final Output)
 
 Here is the Power BI dashboard created from the cleaned dataset, summarizing mission trends, rocket performance, success rates, and cost behavior:
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](/images/image.png)
+![alt text](/images/image-1.png)
 
 ### 🛠️ Tech Stack
 1. Python
